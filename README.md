@@ -8,7 +8,7 @@ Level2: Green      >>User clicks [Yellow,Green]
 
 Level3: Green      >>User clicks [Yellow,Green,Green]
 
-and any mistake on remembering the correct pattern will end the game. Website's ss below.
+and any mistake on remembering the correct pattern will end the game. Website's ss below and the link is: sinemvarol.github.io/simon-game/
 
 ![image](https://user-images.githubusercontent.com/90522558/137596465-1c264964-8b69-4506-b2ce-ea59196ea691.png)
 
